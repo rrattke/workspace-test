@@ -1,0 +1,9 @@
+{
+  "name": "package-one",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "@rattke/pubpack": "^1.1.0"
+  }
+}
